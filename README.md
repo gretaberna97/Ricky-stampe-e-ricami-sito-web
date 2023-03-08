@@ -1,2 +1,2 @@
 # Ricky-stampe-e-ricami-sito-web
-Sito web realizzato per l'azienda Artemisia srls a Gennaio 2023
+Sito web (in formato png) realizzato per l'azienda Artemisia srls a Gennaio 2023
